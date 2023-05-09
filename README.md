@@ -11,6 +11,8 @@ emoji | meaning
 ❌ | not able to do
 💡 | idea is not hard but not implement by community
 
+## Roadmap
+
 - commit message ✅
   - auto group files and commit them group by group 💡
 
