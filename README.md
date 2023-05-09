@@ -1,5 +1,9 @@
 # code-by-ai-roadmap
 
+It's not a tool, it's just roadmap for me to track the progress that ai's ability to write a program.
+
+> it can already write code now, but it's not in a engineering way.
+
 lever: 🆗 < ✅
 
 - commit message ✅
