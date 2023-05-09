@@ -4,10 +4,15 @@ It's not a tool, it's just roadmap for me to track the progress that ai's abilit
 
 > it can already write code now, but it's not in a engineering way.
 
-lever: 🆗 < ✅
+emoji | meaning
+--- | ---
+✅ | able to do
+🆗 | able to do but not good enough
+❌ | not able to do
+💡 | idea is not hard but not implement by community
 
 - commit message ✅
-  - auto group files and commit them group by group ❌
+  - auto group files and commit them group by group 💡
 
 - TypeScript Type ✅
 
