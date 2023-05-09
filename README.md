@@ -27,3 +27,9 @@ emoji | meaning
 
 - extract component 🆗
   - auto create component file and replace old code with new component ❌
+
+## Conclusion
+
+Very early stage
+
+Grade in engineering way: 6%
